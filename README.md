@@ -1,6 +1,7 @@
-# CGaming官网
+# 棋牌官网 訪問地址 https://milktea7749.github.io/g/
 ![IMG_0236](https://github.com/milktea7749/g/blob/5eada238591b788211116a7b2246e43830b6c5f3/public/IMG_4625.GIF)
 # 更新日志
+
 ## 5/28 的版本NEWS区右方的 图片+箭头区块还在
 ## 5/25 &5/25以前 卡片还没大改 
 
