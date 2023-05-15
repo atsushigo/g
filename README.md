@@ -1,4 +1,4 @@
-# 棋牌官网 訪問地址 https://milktea7749.github.io/g/
+# 棋牌官网 訪問地址 https://g-beige.vercel.app/
 ![IMG_0236](https://github.com/milktea7749/g/blob/5eada238591b788211116a7b2246e43830b6c5f3/public/IMG_4625.GIF)
 # 更新日志
 
